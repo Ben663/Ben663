@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ben grinvald
 - 👀 I’m interested in FullStack
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to working at Fullstack developer - web developers
+- 💞️ I’m looking to working at Fullstack developer - web developer
 - 📫 How to reach me linkedin.com/in/ben-grinvald
 
 <!---
