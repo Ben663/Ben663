@@ -1,6 +1,6 @@
 ##                 Hi I’m Ben Grinvald 👋
 ##           I’m interested in Full Stack Developer
-###  💬 Ask me about anything related to JavaScript & ReactJS
+###  💬 Ask me about anything related to JavaScript, ReactJS & MongoDB, NodeJs
 ###                   💞️ 📫 
 	 
   
