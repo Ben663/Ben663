@@ -1,7 +1,6 @@
 ##                 Hi I’m Ben Grinvald 👋
 ##           I’m interested in Full Stack Developer
-##   🌱 I’m currently learning JavaScript & ReactJS
-###  💬 Ask me about anything related to Javascript or React
+###  💬 Ask me about anything related to JavaScript & ReactJS
 ###                   💞️ 📫 
 	 
   
